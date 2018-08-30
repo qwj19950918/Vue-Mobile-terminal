@@ -1,21 +1,19 @@
-# vue-demo
+# vue-demo（移动端VUE环境搭建）
 
 > A Vue.js project
 
-## Build Setup
+> Vue-cil
 
-``` bash
-# install dependencies
-npm install
+> Vuex管理状态
 
-# serve with hot reload at localhost:8080
-npm run dev
+> VueRouter管理路由 mode 默认Hash
 
-# build for production with minification
-npm run build
+> 封装axios统一请求
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+> config->index.js: proxyTable 设置对象解决本地跨域问题
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+> 使用flexible控制px自动转化rem
+
+> 使用sass编译css
+
+## Vue热衷者，愿每天自己进步一点点，成长起来，不再懒惰。
